@@ -1,0 +1,9 @@
+.bible-quiz {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.bible-quiz button {
+  margin: 5px;
+}
